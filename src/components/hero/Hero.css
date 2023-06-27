@@ -1,0 +1,25 @@
+.hero-container{
+    /* background: url(../../images/hero-bg.jpg) center center/cover no-repeat; */
+    background: url(../../assets/url-shortener.jpg) center center/cover no-repeat;
+    height: 80vh;
+    margin-top: 10px;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+}
+
+.hero-description{
+  color: black;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 100px;
+    margin-top: 420px;
+    margin-bottom: 10px;
+    text-align: center;
+    
+  
+}

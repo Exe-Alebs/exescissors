@@ -1,0 +1,49 @@
+
+
+.navbar-homename{
+   
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+    &:hover{
+        color: lightcoral;
+    }
+
+}
+.navbar-signup{
+    background-color: lightskyblue;
+    border-radius: 10px;
+    margin-right: 10px;
+    padding: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+    &:hover{
+        background-color: lightcoral;
+    }
+    
+    
+}
+.navbar-login{
+   
+    border-radius: 10px;
+    margin-right: 10px;
+    padding: 5px;
+    font-weight: bold;
+    font-size: medium;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+    &:hover{
+        background-color: lightcoral;
+    }
+}
